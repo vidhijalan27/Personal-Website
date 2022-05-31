@@ -2,15 +2,67 @@ body{
   background-color: #FAD4D4;
   margin: 0;
 }
-div {
+.Top {
   padding-top: 20px;
   color: #F47C7C;
+  font-family:Satisfy;
 }
-h1 {
+.Middle1 {
+  padding-top: 50px;
+  color: #765b60;
+  font-family: Times New Roman;
+}
+.bio {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 25px;
+  font-size: 17px;
+}
+.Middle2 {
+  padding-top: 5px;
+  color:#765b60;
+}
+ul {
+  position: relative;
+  text-align: left;
+}
+.Work {
+  font-size: 25px;
+  font-family: Satisfy;
+  margin-bottom: 0;
+  position: relative;
+  bottom: 20px;
+}
+.mainlist {
+  bottom: 320px;
+  left: 200px;
+  line-height: 25px;
+  font-size: 17px;
+}
+.comp {
+  position: relative;
+  height: 300px;
+  left: 280px;
+  bottom: 30px;
+}
+hr {
+  background-color: #FAD4D4;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ffaeaa;
+  border-width: 7px;
+  width: 5%;
+}
+.rule2 {
+  position: relative;
+  bottom: 295px;
+}
+.heading {
   margin-top: 0;
+  font-size: 50px;
 }
-p {
-  font-family: serif;
+.heading2 {
+  font-size: 25px;
 }
 .cloud {
   height: 100px;
