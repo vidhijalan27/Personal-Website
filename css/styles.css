@@ -11,6 +11,7 @@ body{
   padding-top: 50px;
   color: #765b60;
   font-family: Times New Roman;
+  width: 40%;
 }
 .bio {
   padding-top: 20px;
@@ -21,6 +22,7 @@ body{
 .Middle2 {
   padding-top: 5px;
   color:#765b60;
+  width: 65%;
 }
 ul {
   position: relative;
@@ -33,17 +35,47 @@ ul {
   position: relative;
   bottom: 20px;
 }
+.w {
+  position: relative;
+  bottom: 35px;
+}
 .mainlist {
-  bottom: 320px;
-  left: 200px;
   line-height: 25px;
   font-size: 17px;
 }
 .comp {
-  position: relative;
   height: 300px;
-  left: 280px;
-  bottom: 30px;
+}
+.rule1 {
+  width: 10%;
+}
+.rule2 {
+  position: relative;
+  bottom: 35px;
+  width: 6%;
+}
+
+.Middle3 {
+  color: #765b60;
+  width: 60%;
+}
+.achieve {
+  font-size: 25px;
+  font-family: Satisfy;
+  position: relative;
+  bottom: 45px;
+}
+.achievements {
+  height: 200px;
+}
+.a {
+  position: relative;
+  bottom: 95px;
+}
+.rule3 {
+  position: relative;
+  bottom: 75px;
+  width: 6.4%;
 }
 hr {
   background-color: #FAD4D4;
@@ -51,11 +83,6 @@ hr {
   border-top-style: dotted;
   border-color: #ffaeaa;
   border-width: 7px;
-  width: 5%;
-}
-.rule2 {
-  position: relative;
-  bottom: 295px;
 }
 .heading {
   margin-top: 0;
